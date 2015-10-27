@@ -1,0 +1,22 @@
+HOST GATOR INFO
+Username: rpguide
+Pin: 1731
+Ref Number 4 Purchase: R0I0Z3180746262
+
+THINGS WE NEED:
+
+
+SCRUM PROCESS
+30 Day Sprints
+1 Week Design
+2 Weeks Dev
+2 Days Testing
+5 Days Re-Dev (if needed)
+Production
+
+TRELLO ITEMS
+Product Backlog - Red (Immediate Prio), Orange (High Prio), Yellow (Med Prio), Green (Get it done sometime)
+Add timebox to each Sprint Item, POC for each Sprint Item, Does not require burndown chart
+Scrum Master makes estimate based upon other's estimates
+
+Template for writing on card: As [a type of user] I want to [perform a specific action] such that [result]. (IE: As a web user, I want to make a reservation, such that I may secure my lodging.)
